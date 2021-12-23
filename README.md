@@ -1,2 +1,2 @@
 # FinTech-Roger
-NTUSCIE-2021金融科技導論 by professor 張智星
+FinTech in NTUCSIE by professor 張智星
